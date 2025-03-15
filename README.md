@@ -1,7 +1,7 @@
 <html>
  <head>
    <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
-   <title>College CoST</title>
+  
  </head>
  <body style="background-color:lightgray;">
    <h1 style="background-color:darkblue; color:white;border:2px solid green;font-family:kh muol;font-size:200%;text-align:center">មហាវិទ្យាល័យវិទ្យាសាស្ត្រនិងបច្ចេកវិទ្យា</h1>
