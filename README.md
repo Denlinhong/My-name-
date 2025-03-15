@@ -18,9 +18,9 @@
  
  The College of Science and Technology (CoST) was established at the same time as the The University of Cambodia in 2013.B</p>
    <h2 style="background-color:darkblue; color:white;border:2px solid green;font-family:kh muol;font-size:200%;text-align:center"> បន្ទប់អនុវត្ត-computer labs</h2>
-   <img src="1.jpg" width="300" height="200">
-   <img src="2.jpg" width="300" height="200">
-   <img src="3.jpg" width="300" height="200">
+   <img src="1.jpg" width="100" height="50">
+   <img src="2.jpg" width="100" height="500">
+   <img src="3.jpg" width="100" height="50">
  </body>
    <footer>
      <img src="7.jpg" width="50" height="50">
